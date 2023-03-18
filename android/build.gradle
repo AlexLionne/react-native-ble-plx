@@ -45,5 +45,5 @@ repositories {
 
 dependencies {
     implementation "com.facebook.react:react-native:+"
-    implementation project(":library")
+    implementation 'com.github.alexlionne:MultiPlatformBleAdapter:1960790bc79d54ec60ad81b74b45f9b027c866a7'
 }
